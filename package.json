@@ -1,0 +1,27 @@
+{
+  "name": "nodecloudwire",
+  "version": "0.1.0",
+  "description": "[POC] Wire-like tool designed for NodeCloud",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheLukaszNs/NodeCloudWire.git"
+  },
+  "keywords": [
+    "POC",
+    "NodeCloud",
+    "Wire"
+  ],
+  "author": "Łukasz Myśliwiec",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheLukaszNs/NodeCloudWire/issues"
+  },
+  "homepage": "https://github.com/TheLukaszNs/NodeCloudWire#readme",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
