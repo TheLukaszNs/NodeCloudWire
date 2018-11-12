@@ -25,7 +25,7 @@ const ProvideBar = foo => {
 
 const ProvideBaz = bar => {
   if (bar.x === 0) {
-    throw new Error('x in Bar equals 0');
+    throw new Error('cannot provide baz when bar is zero');
   }
   return new Baz(bar.x);
 };

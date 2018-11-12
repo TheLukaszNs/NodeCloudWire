@@ -1,4 +1,4 @@
-const Wire = require('../Wire');
+const Wire = require('..');
 const wire = new Wire();
 
 const SmallSet = wire.newSet([
